@@ -6,7 +6,7 @@ Personal [Agent Skills](https://agentskills.io) for AI coding agents (pi, Claude
 
 | Skill | What it does |
 |---|---|
-| [mise](mise/) | Enforce mise as the only tool/version manager — never brew/nvm/pyenv/sdkman for runtimes |
+| [mise](mise/) | Manage runtimes with mise; default CLIs to mise, allowing npm global installs when required for self-updates |
 
 ## Install
 
